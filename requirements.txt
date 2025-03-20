@@ -1,0 +1,12 @@
+opencv-python
+mediapipe
+numpy
+dlib
+scipy
+pyautogui
+pyttsx3
+transformers
+torch
+hologramlib
+tensorflow
+cloudai-sdk
